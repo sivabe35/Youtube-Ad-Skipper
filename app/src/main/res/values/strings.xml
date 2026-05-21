@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auto Ad Skipper</string>
+    <string name="accessibility_service_label">Auto Ad Skipper</string>
+    <string name="accessibility_service_description">Auto-clicks the Skip button on YouTube video advertisements when it becomes active.</string>
+</resources>
